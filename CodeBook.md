@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `week4data.txt`.
+This code book summarizes the resulting data fields in `UCI HAR Dataset`.
 
 ## Identifiers
 
