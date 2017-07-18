@@ -20,15 +20,15 @@ Goal | Item | Link to Item
 
 
 
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
+Analysis R Script |  week_4_assignment.R |  [R Script Link](https://github.com/chelseabrwn/getting-and-cleaning-data/blob/master/week_4_assignment.R)
 
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/chelseabrwn/getting-and-cleaning-data/blob/master/tidyData.csv)
 
 Github Repo | Repo |  [Repo Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
 
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
+Cookbook | CodeBook.md |  [Codebook Link](https://github.com/chelseabrwn/getting-and-cleaning-data/blob/master/CodeBook.md)
 
-README | ReadMe.md |  [Repo Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
+README | Currently Reading |  [Repo Link](https://github.com/chelseabrwn/getting-and-cleaning-data/blob/master/ReadMe.md)
 
 ​
 
