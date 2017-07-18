@@ -16,11 +16,9 @@
 
 ## Review Criteria
 
-​
-
 Goal | Item | Link to Item
 
---- | --- | ---
+
 
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/chelseabrwn/getting-and-cleaning-data)
 
